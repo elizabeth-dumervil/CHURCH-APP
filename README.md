@@ -1,5 +1,6 @@
 # CHURCH-APP
-Effective Date : 17/7/23
+Effective Date : 7/17/24
+
 1. Introduction
 
 Welcome to the Church App Demo. Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our app.
