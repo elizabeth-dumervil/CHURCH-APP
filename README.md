@@ -1,7 +1,8 @@
 # CHURCH-APP
+Effective Date : 17/7/23
 1. Introduction
 
-Welcome to the Church App Radio Demo. Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our app.
+Welcome to the Church App Demo. Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our app.
 
 2. Information We Collect
 
@@ -38,11 +39,10 @@ Access: You can request a copy of the personal data we hold about you.
 Correction: You can request to correct any inaccuracies in your personal data.
 Deletion: You can request to delete your personal data.
 Objection: You can object to the processing of your personal data.
-To exercise these rights, please contact us at [Your Contact Information].
 
 7. Third-Party Links
 
-Our app may contain links to third-party websites or services. We are not responsible for the privacy practices or content of these external sites.
+Our app may contain links to third-party websites or services.
 
 8. Changes to This Privacy Policy
 
